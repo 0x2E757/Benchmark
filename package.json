@@ -1,0 +1,20 @@
+{
+  "name": "@0x2e757/benchmark",
+  "version": "1.0.3",
+  "description": "Benchmarking library",
+  "author": "Eric Kevrel",
+  "license": "MIT",
+  "repository": "0x2E757/Benchmark",
+  "keywords": [
+    "benchmark",
+    "typescript"
+  ],
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7",
+    "@types/node": "^14.10.1"
+  }
+}
